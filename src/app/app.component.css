@@ -98,4 +98,9 @@ mat-card{
         padding-left: 0 !important;
     }
 
-
+.mat-header-cell{
+  background: #2a7ec7;
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+}
